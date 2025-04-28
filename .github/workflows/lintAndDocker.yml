@@ -3,7 +3,7 @@ name: Lab 5 po kiii izrabotena od Kostadin Pejoski
 on:
   push:
     branches:
-      - main
+      - "*"
   pull_request:
 
 jobs:
